@@ -1,5 +1,7 @@
 # knife-mysql
 
+[![Gem Version](https://badge.fury.io/rb/knife-mysql.svg)](http://badge.fury.io/rb/knife-mysql)
+
 `knife-mysql` is a [knife](http://docs.getchef.com/knife.html) plugin for working with MySQL databases on servers managed by [Chef](http://getchef.com/).
 
 ## Installation
