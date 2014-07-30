@@ -38,4 +38,4 @@ Please do! Open a pull request with your changes and I'll be happy to review it.
 
 ## License
 
-Copyright (c) 2014 Logan Koester. Released under the MIT license. See LICENSE-MIT for details.
+Copyright (c) 2014 Logan Koester. Released under the MIT license. See LICENSE for details.
